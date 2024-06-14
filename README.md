@@ -7,8 +7,7 @@ CalendarApp is a simple and user-friendly calendar application for Android devic
 - **Monthly View**: Browse your calendar in a monthly view.
 
 ## Screenshots
-
-[Include screenshots of your app here]
+![Screenshot 2024-06-14 162021](https://github.com/YasminElgendi/Calendar/assets/54359829/ffcc90fc-d251-4094-b3e2-daf50ace9709)
 
 ## Installation
 
